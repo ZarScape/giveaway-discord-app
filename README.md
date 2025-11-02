@@ -7,9 +7,7 @@
 Built to be fast, easy to run, and simple to customize.
 
 ```
-
 ❤️❤️ Make sure to SUBSCRIBE to ZarScape if this bot helps you ❤️❤️
-
 ````
 
 ## Key Features
