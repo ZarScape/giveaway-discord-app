@@ -133,6 +133,3 @@ This project includes a `LICENSE` file in the repository root. Refer to it for l
 Authored by ZarScape
 
 ❤️ Make sure to SUBSCRIBE to ZarScape if this bot helps you: [https://www.youtube.com/@ZarScape](https://www.youtube.com/@ZarScape)
-
-If you want, I can also **add small emoji badges and styling** to make it more visually engaging for GitHub/Fiverr. Do you want me to do that?
-```
