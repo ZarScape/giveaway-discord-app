@@ -1,0 +1,26 @@
+{
+  "name": "giveaway-discord-app",
+  "version": "1.0.0",
+  "description": "An amazing Discord giveaway bot powered by v2 components. Fast, interactive, and effortless to use.",
+  "main": "src/zar.js",
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "bot",
+    "giveaway",
+    "zar",
+    "zarscape"
+  ],
+  "url": "https://github.com/Zarscape/giveaway-discord-app",
+  "scripts": {
+    "start": "node src/zar.js"
+  },
+  "type": "commonjs",
+  "author": "ZarScape",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-hybrid-sharding": "^3.0.1",
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3"
+  }
+}
