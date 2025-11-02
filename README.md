@@ -37,14 +37,7 @@ Built to be fast, easy to run, and simple to customize.
 ## Demo / Screenshots
 
 Check out the bot in action:
-
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/NKjLWDrUG9Y" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+[![YouTube Preview](https://img.youtube.com/vi/NKjLWDrUG9Y/0.jpg)](https://www.youtube.com/watch?v=NKjLWDrUG9Y)
 
 ## Prerequisites
 
