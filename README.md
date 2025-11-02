@@ -34,7 +34,7 @@ Built to be fast, easy to run, and simple to customize.
 - [Support](#support)  
 - [License](#license)  
 
-## Demo / Screenshots
+## Demo
 
 Check out the bot in action:
 [![YouTube Preview](https://img.youtube.com/vi/NKjLWDrUG9Y/0.jpg)](https://www.youtube.com/watch?v=NKjLWDrUG9Y)
