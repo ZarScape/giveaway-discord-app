@@ -1,4 +1,6 @@
-# giveaway-discord-app
+# Giveaway Discord App
+
+---
 
 🎉 A production-ready Discord giveaway bot with sharding support (via discord-hybrid-sharding), slash commands, and simple JSON-backed persistence.
 
