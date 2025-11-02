@@ -36,9 +36,15 @@ Built to be fast, easy to run, and simple to customize.
 
 ## Demo / Screenshots
 
-[YouTube Preview](https://www.youtube.com/watch?v=NKjLWDrUG9Y)
+Check out the bot in action:
 
-Add screenshots or GIFs here showing creating a giveaway and entering it.
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/NKjLWDrUG9Y" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
 
 ## Prerequisites
 
